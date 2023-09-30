@@ -1,0 +1,1 @@
+add_library(STBLIB stb_image.cpp)

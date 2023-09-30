@@ -1,0 +1,6 @@
+/Users/akbar/CppProjects/RawOpenGL/build/CMakeFiles/Myapp.dir
+/Users/akbar/CppProjects/RawOpenGL/build/CMakeFiles/edit_cache.dir
+/Users/akbar/CppProjects/RawOpenGL/build/CMakeFiles/rebuild_cache.dir
+/Users/akbar/CppProjects/RawOpenGL/build/dependencies/stb_image/CMakeFiles/STBLIB.dir
+/Users/akbar/CppProjects/RawOpenGL/build/dependencies/stb_image/CMakeFiles/edit_cache.dir
+/Users/akbar/CppProjects/RawOpenGL/build/dependencies/stb_image/CMakeFiles/rebuild_cache.dir
