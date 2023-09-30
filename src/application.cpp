@@ -307,19 +307,6 @@ int main(void)
         GLCall(glBindVertexArray(0));
         }
 
-        
-        GLCall(glClear(GL_COLOR_BUFFER_BIT));
-        GLCall(glColor3d(255,0,0));
-        GLCall(glBegin(GL_LINE_LOOP));
-        GLCall(glVertex2f(0.0,0.0));
-        GLCall(    glVertex2f(5.0,2.0));
-        GLCall(    glVertex2f(2.0,-5.0));
-        GLCall(    glVertex2f(-0.5,-0.5));
-        GLCall(    glVertex2f(-5.0,-2.0));
-        GLCall(    glVertex2f(-3.0,6.0));
-        GLCall(glEnd());
-        glFlush();
-
 
         if(mycursor.check()){
 
